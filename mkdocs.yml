@@ -4,8 +4,8 @@ site_description: Master in Design for Emergent Futures
 site_author: Flora Berkowitz
 copyright: Copyleft 2023 "Flora Berkowitz" - GNU Free Documentation License
 repo_name: 'Name : Github Repo'
-site_url: https://fablabbcn.github.io/mdef-template/
-repo_url: 'https://github.com/fablabbcn/mdef-template'
+site_url: https://floraroseberkowitz.github.io/mdef-fb/
+repo_url: https://github.com/FloraRoseBerkowitz/mdef-fb.git
 
 
 nav:
